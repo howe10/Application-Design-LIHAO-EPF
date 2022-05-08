@@ -1,0 +1,4 @@
+node_modules
+cd back-end
+npm install
+npm start
